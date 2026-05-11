@@ -1,0 +1,13 @@
+{
+  "name": "pi-context-viz",
+  "version": "0.1.0",
+  "description": "Context visualizer extension for pi coding agent",
+  "keywords": ["pi-package", "pi", "context", "visualizer"],
+  "pi": {
+    "extensions": ["./extensions"]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
+  }
+}

@@ -4,6 +4,8 @@ Context visualizer extension for [pi coding agent](https://github.com/earendil-w
 
 ![Context Viz Preview](./assets/context-viz-preview.png)
 
+Preview video: [`assets/context-viz-preview.mp4`](./assets/context-viz-preview.mp4)
+
 ## Features
 
 - `/context-viz` right-side overlay

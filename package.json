@@ -3,6 +3,15 @@
   "version": "0.1.0",
   "description": "Context visualizer extension for pi coding agent",
   "keywords": ["pi-package", "pi", "context", "visualizer"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yukariko/context-viz.git"
+  },
+  "homepage": "https://github.com/Yukariko/context-viz#readme",
+  "bugs": {
+    "url": "https://github.com/Yukariko/context-viz/issues"
+  },
+  "license": "MIT",
   "pi": {
     "extensions": ["./extensions"]
   },

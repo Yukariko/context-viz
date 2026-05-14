@@ -2,6 +2,8 @@
 
 Context visualizer extension for [pi coding agent](https://github.com/earendil-works/pi-mono).
 
+![Context Viz Preview](./assets/context-viz-preview.png)
+
 ## Features
 
 - `/context-viz` right-side overlay

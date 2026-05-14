@@ -14,8 +14,7 @@
   "license": "MIT",
   "pi": {
     "extensions": ["./extensions"],
-    "image": "https://raw.githubusercontent.com/Yukariko/context-viz/main/assets/context-viz-preview.png",
-    "video": "https://raw.githubusercontent.com/Yukariko/context-viz/main/assets/context-viz-preview.mp4"
+    "image": "https://raw.githubusercontent.com/Yukariko/context-viz/main/assets/context-viz-preview.png"
   },
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": "*",
